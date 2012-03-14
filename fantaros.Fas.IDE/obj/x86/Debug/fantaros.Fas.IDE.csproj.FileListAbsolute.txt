@@ -1,0 +1,4 @@
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.IDE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.IDE\obj\x86\Debug\fantaros.Fas.IDE.Properties.Resources.resources
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.IDE\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.IDE\obj\x86\Debug\GenerateResource.write.1.tlog

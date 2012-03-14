@@ -1,0 +1,13 @@
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\bin\Debug\fasp.exe
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\bin\Debug\fasp.pdb
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\App.g.cs
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\fasp_MarkupCompile.cache
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\fasp.g.resources
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\fantaros.Fas.WPF.Properties.Resources.resources
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\fasp.exe
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\fasp.pdb
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\FasWindow.baml
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.WPF\obj\x86\Debug\FasWindow.g.cs

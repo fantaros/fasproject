@@ -1,0 +1,25 @@
+$ba(num a,num b)
+{
+	$ a+b;
+};
+num aa = ba(1,2);
+out(aa);
+
+$Point
+{
+	num x;
+	num y;
+	$X(),(num sx)
+	{
+		x = sx;
+		$ x;
+	}
+	$Y(),(num sy)
+	{
+		y = sy;
+		$ y;
+	}
+}
+
+Point pa;
+out(pa.X);

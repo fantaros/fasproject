@@ -1,0 +1,5 @@
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\bin\Debug\fasc.exe
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\bin\Debug\fasc.pdb
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.Compiler\obj\x86\Debug\fasc.exe
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.Compiler\obj\x86\Debug\fasc.pdb

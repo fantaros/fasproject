@@ -1,0 +1,11 @@
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\bin\Debug\fas.exe
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\bin\Debug\fas.pdb
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.Console\obj\x86\Debug\fas.exe
+D:\fantaros\Dropbox\Fan\Projects\fantaros\Fas\fantaros.Fas.Console\obj\x86\Debug\fas.pdb
+D:\fantaros\Dropbox\Fan\Projects\Fas\fantaros.Fas.Console\obj\x86\Debug\fas.exe
+D:\fantaros\Dropbox\Fan\Projects\Fas\fantaros.Fas.Console\obj\x86\Debug\fas.pdb
+D:\fantaros\Dropbox\Fan\Projects\Fas\fantaros.Fas.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\fantaros\Dropbox\Fan\Projects\Fas\bin\Debug\Sample\sample.fas
+D:\fantaros\Dropbox\Fan\Projects\Fas\bin\Debug\fas.exe
+D:\fantaros\Dropbox\Fan\Projects\Fas\bin\Debug\fas.pdb
